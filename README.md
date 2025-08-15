@@ -12,6 +12,18 @@ Each project highlights a real-world business problem and demonstrates how I use
 **Tools:** Python, SQL, Tableau  
 **Summary:** Built machine learning models (Prophet, ARIMA, LSTM) to forecast sales and improve inventory planning in the CPG industry.
 
+### 📈 Power BI Sales Dashboard
+
+**Tools:** Power BI, Power Query
+**Summary:** Designed an interactive Power BI dashboard to visualize sales performance and uncover trends. Key visuals include:
+
+Quantity per order
+Sales revenue by country
+Quantity sold by year
+Monthly revenue breakdown by product line
+
+These insights allow for quick identification of top-performing markets, seasonal trends, and product line contributions to revenue.
+
 ---
 
 ## 💡 About Me
